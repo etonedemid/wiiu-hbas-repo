@@ -4,7 +4,7 @@
         "title": "COLD START",
         "author": "etonedemid",
         "category": "game",
-        "version": "3.3.0",
+        "version": "3.4.0",
         "url": "https://github.com/etonedemid/cold-start-nx",
         "license": "GPLv3",
         "description": "Topdown roguelike on five platforms",
@@ -44,10 +44,10 @@
             "url": "screenshot6.png"
         },
         {
-            "url": "https://github.com/etonedemid/cold-start-nx/releases/download/v3.3.0/cold_start-wiiu-3.3.0.wuhb",
+            "url": "https://github.com/etonedemid/cold-start-nx/releases/download/v3.4.0/cold_start-wiiu-3.4.0.wuhb",
             "type": "update",
-            "dest": "/wiiu/apps/ColdStart/cold_start-wiiu-3.3.0.wuhb"
+            "dest": "/wiiu/apps/ColdStart/cold_start-wiiu-3.4.0.wuhb"
         }
     ],
-    "changelog": ""
+    "changelog": "v3.4.0\nEndless mode: seeded infinite world with giant maze buildings.\nNew enemies: bomber, spitter, warden.\nTelegraphed bombings (artillery + plane flyovers) that crater and scorch terrain.\nTactical military HUD, heavier hit feedback, reworked car physics, bigger maps.\n\n"
 }
